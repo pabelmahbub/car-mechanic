@@ -1,4 +1,4 @@
-# used media query for creating react responsive website.
+# used media query in Services section and IN Experts used Bootstrap for responsiveness.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
