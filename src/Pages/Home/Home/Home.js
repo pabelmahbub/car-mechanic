@@ -7,6 +7,7 @@ function Home(){
   return (
     <div>
       <div style={{marginBlock:60}}>
+        <h2>AWS amplify</h2>
       <Banner></Banner>
       </div>
        
