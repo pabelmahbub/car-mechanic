@@ -14,13 +14,15 @@ function Services() {
     }, [])
     
   return (
-    <div className='service-container'>
+    <div id="services">
+      <div  className='service-container'>
         {
             services.map(service =><Service
             key={service.id}
             service={service}
             ></Service>)
         }
+        </div>
     </div>
   )
 }
