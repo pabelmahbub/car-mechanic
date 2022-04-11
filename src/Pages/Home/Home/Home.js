@@ -11,7 +11,7 @@ function Home(){
       </div>
        
         <Services/>
-        <h2 style={{marginTop:30,marginBottom:30}}>Our Experts</h2>
+        <h2 style={{marginTop:30,marginBottom:30,textDecorationLine:'underline',color:'royalblue'}}>Our Experts</h2>
         <Experts/>
     </div>
   )

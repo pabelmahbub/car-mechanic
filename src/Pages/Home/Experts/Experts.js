@@ -13,7 +13,7 @@ function Experts() {
     }, [])
   return (
     <div id="experts" className='container'>
-        <h2 className='text-primary'>Hello</h2>
+        {/* <h2 className='text-primary'>Hello</h2> */}
         <div className="row">
         { 
             experts.map(expert=><Expert

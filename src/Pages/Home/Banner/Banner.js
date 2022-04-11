@@ -75,7 +75,7 @@ function Banner() {
      <>
 
        <div>
-        <h2> Single Item</h2>
+        {/* <h2> Single Item</h2> */}
         <Slider {...settings}>
           <div style={{}}>
           <img
@@ -85,19 +85,39 @@ function Banner() {
        />
           </div>
           <div>
-            <h3>2</h3>
+          <img
+       className="d-block w-100"
+       src="https://img.freepik.com/free-vector/auto-repair-shop-service-workers-fixing-car-and-billing-customer-retro-cartoon-indoor-composition_1284-16849.jpg?w=996" height={400}
+       alt="First slide"
+       />
           </div>
           <div>
-            <h3>3</h3>
+          <img
+       className="d-block w-100"
+       src="https://img.freepik.com/free-vector/auto-repair-shop-service-workers-fixing-car-and-billing-customer-retro-cartoon-indoor-composition_1284-16849.jpg?w=996" height={400}
+       alt="First slide"
+       />
           </div>
           <div>
-            <h3>4</h3>
+          <img
+       className="d-block w-100"
+       src="https://img.freepik.com/free-vector/auto-repair-shop-service-workers-fixing-car-and-billing-customer-retro-cartoon-indoor-composition_1284-16849.jpg?w=996" height={400}
+       alt="First slide"
+       />
           </div>
           <div>
-            <h3>5</h3>
+          <img
+       className="d-block w-100"
+       src="https://img.freepik.com/free-vector/auto-repair-shop-service-workers-fixing-car-and-billing-customer-retro-cartoon-indoor-composition_1284-16849.jpg?w=996" height={400}
+       alt="First slide"
+       />
           </div>
           <div>
-            <h3>6</h3>
+          <img
+       className="d-block w-100"
+       src="https://img.freepik.com/free-vector/auto-repair-shop-service-workers-fixing-car-and-billing-customer-retro-cartoon-indoor-composition_1284-16849.jpg?w=996" height={400}
+       alt="First slide"
+       />
           </div>
         </Slider>
       </div>
