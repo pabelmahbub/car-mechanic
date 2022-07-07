@@ -1,13 +1,13 @@
 
-# In firebase live site:https://react-firebase-hosting-privateroute-responsive-contextapi.netlify.app/
-# used .env.local to hide firebase config info.
+### In firebase live site:https://react-firebase-hosting-privateroute-responsive-contextapi.netlify.app/
+### used .env.local to hide firebase config info.
 
 
-# used media query in Services section and IN Experts used Bootstrap for responsiveness.
+### used media query in Services section and IN Experts used Bootstrap for responsiveness.
 #https://react-responsive-using-media-querybootstrap.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
