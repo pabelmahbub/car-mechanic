@@ -1,6 +1,6 @@
 
 
-*.used .env.local to hide firebase config info.
+<h4>used .env.local to hide firebase config info.</h4>
 *.car-mechanic-server is the backend of this client side code:
 
 
