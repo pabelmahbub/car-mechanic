@@ -6,7 +6,7 @@
 
 <h4>used media query in Services section and IN Experts used Bootstrap for responsiveness.</h4>
 
-<h3>Live site: [https://car-mechanic-01.netlify.app/](https://car-mechanic-01.netlify.app/)</h3>
+<h3>Live site:(https://car-mechanic-01.netlify.app/)</h3>
 
 <h4>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</h4>
 
