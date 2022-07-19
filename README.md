@@ -15,7 +15,7 @@ Technology used in this app:
 1.React
 2.Firebase
 3.React-hook-form
-4.express api [from heroku server[https://car-mechanic-server.herokuapp.com/](https://car-mechanic-server.herokuapp.com)
+4.express api [from heroku server[https://car-mechanic-server.herokuapp.com/]
 5.react-routing
 6.React-Bootstrap
 7.axios
