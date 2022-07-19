@@ -23,7 +23,7 @@ Technology used in this app:
 ```
 CREATE,READ,DELETE api is implemented in this app.
 localhost://5000/addServices to add new services by POST api and would save in mongodb.
-localhost://5000/manageServices to DELETE api  and using delete api.
+localhost://5000/manageServices to DELETE using delete api.
 ```
 ## Available Scripts
 
