@@ -5,14 +5,16 @@
 
 
 *.used media query in Services section and IN Experts used Bootstrap for responsiveness.
+
 *.Live site: [https://car-mechanic-01.netlify.app/](https://car-mechanic-01.netlify.app/)
+
 *.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-```#Technolofy used here:
+```#Technology used here:
 1.React
 2.Firebase
 3.React-hook-form
-4.express api deployed from heroku server [https://car-mechanic-server.herokuapp.com/]
+4.express api [from heroku server [https://car-mechanic-server.herokuapp.com/](https://car-mechanic-server.herokuapp.com)]
 5.react-routing
 6.React-Bootstrap
 ```
