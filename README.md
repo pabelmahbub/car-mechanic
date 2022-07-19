@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1.React
 2.Firebase
 3.React-hook-form
-4.express api from deployed heroku app[https://car-mechanic-server.herokuapp.com/]
+4.express api deployed from heroku server [https://car-mechanic-server.herokuapp.com/]
 5.react-routing
 ```
 ```
