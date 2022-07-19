@@ -5,14 +5,14 @@ car-mechanic-server is the backend of this client side code:
 
 
 used media query in Services section and IN Experts used Bootstrap for responsiveness.
-```https://react-responsive-using-media-querybootstrap.netlify.app/```
+```https://car-app-01.netlify.app/```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ```#Technolofy used here:
-1.Firebase
-2.React
+1.React
+2.Firebase
 3.React-hook-form
-4.express api from deployed heroku app
+4.express api from deployed heroku app[https://car-mechanic-server.herokuapp.com/]
 5.react-routing
 ```
 ## Available Scripts
