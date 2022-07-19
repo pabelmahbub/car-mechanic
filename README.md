@@ -1,14 +1,15 @@
 
 
-### used .env.local to hide firebase config info.
+## used .env.local to hide firebase config info.
 ## car-mechanic-server is the backend of this client side code:
 
 
-### used media query in Services section and IN Experts used Bootstrap for responsiveness.
+## used media query in Services section and IN Experts used Bootstrap for responsiveness.
 #https://react-responsive-using-media-querybootstrap.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Available Scripts
+1.Technolofy used here:
+## Available Scripts
 
 In the project directory, you can run:
 
