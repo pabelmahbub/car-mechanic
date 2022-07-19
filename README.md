@@ -10,7 +10,8 @@
 
 <h4>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</h4>
 
-```<h4>Technology used here:<h4>
+```
+Technology used in this app:
 1.React
 2.Firebase
 3.React-hook-form
