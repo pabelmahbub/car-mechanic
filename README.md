@@ -15,6 +15,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4.express api from deployed heroku app[https://car-mechanic-server.herokuapp.com/]
 5.react-routing
 ```
+```
+... ../addServices to add new services by POST api and would save in mongodb.
+... .../manageService to DELETE api  and using delete api.
+```
 ## Available Scripts
 
 In the project directory, you can run:
