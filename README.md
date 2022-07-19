@@ -16,8 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 5.react-routing
 ```
 ```
-... ../addServices to add new services by POST api and would save in mongodb.
-... .../manageService to DELETE api  and using delete api.
+localhost://5000/addServices to add new services by POST api and would save in mongodb.
+localhost://5000/manageServices to DELETE api  and using delete api.
 ```
 ## Available Scripts
 
