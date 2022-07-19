@@ -1,14 +1,28 @@
 
 
-### used .env.local to hide firebase config info.
-## car-mechanic-server is the backend of this client side code:
+*.used .env.local to hide firebase config info.
+*.car-mechanic-server is the backend of this client side code:
 
 
-### used media query in Services section and IN Experts used Bootstrap for responsiveness.
-#https://react-responsive-using-media-querybootstrap.netlify.app/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*.used media query in Services section and IN Experts used Bootstrap for responsiveness.
 
-### Available Scripts
+*.Live site: [https://car-mechanic-01.netlify.app/](https://car-mechanic-01.netlify.app/)
+
+*.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+```#Technology used here:
+1.React
+2.Firebase
+3.React-hook-form
+4.express api [from heroku server [https://car-mechanic-server.herokuapp.com/](https://car-mechanic-server.herokuapp.com)]
+5.react-routing
+6.React-Bootstrap
+```
+```
+localhost://5000/addServices to add new services by POST api and would save in mongodb.
+localhost://5000/manageServices to DELETE api  and using delete api.
+```
+## Available Scripts
 
 In the project directory, you can run:
 
