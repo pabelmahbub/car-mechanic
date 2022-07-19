@@ -7,7 +7,7 @@ function AddService() {
          const { register, handleSubmit,reset } = useForm();
          const onSubmit = data => {
                      console.log(data);
-                     axios.post('http://localhost:5000/services', data)
+                     axios.post('https://car-mechanic-server.herokuapp.com/services', data)
                      .then(res=>{
                               console.log(res);
                               if(res.data.insertId){
