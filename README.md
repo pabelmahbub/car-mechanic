@@ -5,7 +5,7 @@ car-mechanic-server is the backend of this client side code:
 
 
 used media query in Services section and IN Experts used Bootstrap for responsiveness.
-```https://car-app-01.netlify.app/```
+```https://car-mechanic-01.netlify.app/```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ```#Technolofy used here:
