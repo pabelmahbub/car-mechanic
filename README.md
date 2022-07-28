@@ -27,7 +27,7 @@ Technology used in this app:
 
 ```
 How to install in local machine:
-1.git clone url
+1.git clone https://github.com/pabelmahbub/car-mechanic.git
 2.npm install
 3.npm start
 4.localhost://5000/addServices to add new services
