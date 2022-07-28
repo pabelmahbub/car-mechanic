@@ -1,7 +1,7 @@
 
 ### CREATE,READ,DELETE API : Mongo and express.js with react.js.
-<h4>used .env.local to hide firebase config info.</h4>
-<h4>car-mechanic-server is the backend of this client side code</h4>
+<h4>used .env.local to hide firebase config info. Login wouldn't work for this</h4>
+<h4>car-mechanic-server Repo is the backend local code of this client side code</h4>
 <h4>used media query in Services section and IN Experts used Bootstrap for responsiveness.</h4>
 
 <h3>Live site:(https://car-mechanic-01.netlify.app/)</h3>
