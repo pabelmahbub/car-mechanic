@@ -21,6 +21,7 @@ Technology used in this app:
 6.React-Bootstrap
 7.axios
 8.mongodb Atlas
+9.heroku
 ```
 
 
