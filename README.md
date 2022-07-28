@@ -11,8 +11,9 @@
 ```
 CREATE,READ,DELETE api(REST) is implemented in this app. Database is mongodb Atlas.
 ```
-```
+
 Technology used in this app:
+```
 1.React
 2.Firebase
 3.React-hook-form
@@ -23,10 +24,8 @@ Technology used in this app:
 8.mongodb Atlas
 9.heroku
 ```
-
-
-```
 How to install in local machine:
+```
 1.git clone https://github.com/pabelmahbub/car-mechanic.git
 2.npm install
 3.npm start
